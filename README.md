@@ -2,7 +2,7 @@
 Evaluating a potential entry in the Smart lock market. Since this is a fairly new
 category there are very few estimates present in terms of market size and key players. One way
 to estimate the key players is by looking at major brands on online portals. The task assigned to
-you is to scrape online portals (Flipkart or Amazon, you can choose any one portal) and create a
+is to scrape online portals (Flipkart or Amazon, you can choose any one portal) and create a
 database of key products. Below are the fields required in the database.
 
 Brand name     - String
