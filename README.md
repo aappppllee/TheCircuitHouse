@@ -1,4 +1,4 @@
-# Data scraping/cleaning
+# Data scraping & ingestion
 Evaluating a potential entry in the Smart lock market. Since this is a fairly new
 category there are very few estimates present in terms of market size and key players. One way
 to estimate the key players is by looking at major brands on online portals. The task assigned to
